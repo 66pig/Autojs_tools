@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Auto.js脚本提取器</string>
+    <string name="xposeddesc">微信公众号：AI小子</string>
+    <string name="file_name">autojs_sourcecode_微信公众号_AI小子.js</string>
+    <string name="file_path">无</string>
+    <string name="path_title">路径：</string>
+    <string name="open_btn_title">打开源码文件</string>
+    <string name="share_btn_title">分享给好友</string>
+    <string name="author">溜溜猪</string>
+    <string name="my_qq">601090231</string>
+    <string name="my_wechat">AI小子</string>
+    <string name="my_email">jiarui.xing@foxmail.com</string>
+    <string name="tips">注意！请在Xposed框架中运行该应用，否则无法正常工作</string>
+</resources>
